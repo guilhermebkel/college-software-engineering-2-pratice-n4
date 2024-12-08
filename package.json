@@ -1,7 +1,7 @@
 {
   "name": "college-software-engineering-2-pratice-n4",
   "version": "1.0.0",
-  "description": "",
+  "description": "College Software Enginerring 2 Practice Nº 4",
   "main": "todo.js",
   "scripts": {
     "test": "jest"
